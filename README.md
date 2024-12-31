@@ -8,6 +8,13 @@ You can create a list of sites with the
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" width="24px" height="24px" fill="red"><path d="M154-406v-52h288v52H154Zm0-150v-52h432v52H154Zm0-150v-52h432v52H154Zm492 456v-156H490v-52h156v-156h52v156h156v52H698v156h-52Z" /></svg>
 </button>
 
+<style> 
+
+div {
+    background-color:red;
+}
+
+</style>
 You can add the site you're currently seeing to the extension's list, and after that, doing a search in the extension's search bar will command your browser's default search engine to look (preferably) for results matching exactly what you wrote, and only in the sites you listed in the extension. For example:
 
 If you add "developer.chrome.com" and "developer.mozilla.org" to the extension's list, when you search "manifest" in the extension's search bar, you will get results only from those sites, meaning your results will be about the browser extension file that must be named "manifest.json" (which is likely what you want), and not about the definition of "manifest" nor about any movie, song or literary work named "manifest".
