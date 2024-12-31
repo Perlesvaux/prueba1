@@ -8,7 +8,7 @@ You can create a list of sites with the
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" width="24px" height="24px" fill="red"><path d="M154-406v-52h288v52H154Zm0-150v-52h432v52H154Zm0-150v-52h432v52H154Zm492 456v-156H490v-52h156v-156h52v156h156v52H698v156h-52Z" /></svg>
 </button>
 
-<style> 
+<style hidden> 
 
 div {
     background-color:red;
